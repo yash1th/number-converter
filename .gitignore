@@ -1,0 +1,13 @@
+#ignore distribution packaging
+bin/
+lib/
+include/
+
+#byte-compiled
+__pycache__/
+
+#ignore configuration files
+*.cfg
+
+#ignore json files
+*.json
